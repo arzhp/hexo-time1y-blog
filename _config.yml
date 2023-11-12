@@ -104,6 +104,3 @@ theme: acorn
 deploy:
   type: ''
 
-autoprefixer:
-  exclude:
-    - '*.min.css'
