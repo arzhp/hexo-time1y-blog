@@ -1,4 +1,9 @@
-# XP一件共享软件
+---
+title: xp一键共享
+tags: [软件，]
+index_img: https://img.arzhp.cn/img/gaitubao_FlDauhMlzIwbfaq6Kz_Py54QEwyT.webp
+date: 2023-11-13 18:00:00
+---
 
 ## XP一键共享工具是Windows平台早期所参与适配的局域网共享服务工具之一，具体就是要添加各路自定义的信息分享模式，尤其是任务逻辑框架，任务处置状态保护以及细节任务组别调整等，通常都存在本地使用以及外部访问模式等层面的大规模数据循环同步，必要的时候添加密码辅助信息。
 ![Alt text](../images/xpyijian.png)
