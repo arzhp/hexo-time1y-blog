@@ -18,7 +18,7 @@
 
 3、运用的是任务组而不是域。
 
-![Alt text](image.png)
+![Alt text](/source/xpyijian.png)
 
 ## 下载地址：
 
