@@ -100,14 +100,14 @@ error_404:
 
 post_meta:
   page: # Home Page
-    date_type: created # created or updated or both 主页文章日期是创建日或者更新日或都显示
-    date_format: date # date/relative 显示日期还是相对日期
+    date_type: both # created or updated or both 主页文章日期是创建日或者更新日或都显示
+    date_format: relative # date/relative 显示日期还是相对日期
     categories: true # true or false 文章页是否显示分类
-    tags: false # true or false 文章页是否显示标签
+    tags: true # true or false 文章页是否显示标签
     label: true # true or false 顯示描述性文字
   post:
     date_type: both # created or updated or both 文章頁日期是創建日或者更新日或都顯示
-    date_format: date # date/relative 显示日期还是相对日期
+    date_format: relative # date/relative 显示日期还是相对日期
     categories: true # true or false 文文章页是否显示分类
     tags: true # true or false 文章页是否显示标签
     label: true # true or false 显示描述性文字
@@ -145,7 +145,7 @@ copy:
 # toc (目录)
 toc:
   post: true
-  page: false
+  page: true
   number: true
   expand: false
   style_simple: false # for post
@@ -324,7 +324,7 @@ darkmode:
   end: # 22
 
 # show scroll percent in scroll-to-top button
-rightside_scroll_percent: false
+rightside_scroll_percent: true
 
 # Don't modify the following settings unless you know how they work (非必要请不要修改 )
 # Choose: readmode,translate,darkmode,hideAside,toc,chat,comment
