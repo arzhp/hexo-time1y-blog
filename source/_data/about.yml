@@ -12,8 +12,8 @@
       - 脚踏实地行动派 🏃
       - 团队小组发动机 🧱
       - 壮汉人狠话不多 💢
-  name: 陈志伟
-  description: 是一名 前端工程师、学生、独立开发者、博主
+  name: 王理想  
+  description: 是一名 计算机爱好者
   aboutsiteTips:
     tips: 追求
     title1: 源于
@@ -21,9 +21,9 @@
     word:
       - 学习
       - 生活
-      - 程序
+      - 折腾
       - 体验
-  helloAbout: Hello there!
+  helloAbout: Hello !
   skillsTips:
     tips: 技能
     title: 开启创造力
@@ -31,11 +31,11 @@
     tips: 生涯
     title: 无限进步
     list:
-      - desc: EDU,软件工程专业
+      - desc: 永无止境
         color: "#357ef5"
-      - desc: EDU,软件工程专业
+      - desc: 永无止境
         color: "#357ef5"
-      - desc: EDU,软件工程专业
+      - desc: 永无止境
         color: "#357ef5"
     img: https://bu.dusays.com/2023/04/21/644287166329b.png
   statistic:
@@ -44,16 +44,16 @@
     cover: https://bu.dusays.com/2023/05/01/644f4b037b930.jpg
   map:
     title: 我现在住在
-    StrengthenTitle: 中国，长沙市
+    StrengthenTitle: 中国，安徽
     background: https://bu.dusays.com/2023/07/05/64a4c61cb20ef.jpg
     backgroundDark: https://bu.dusays.com/2023/07/05/64a4c63495ac5.jpg
   selfInfo:
     selfInfoTips1: 生于
-    selfInfoContentYear: 2002
-    selfInfoTips2: 湖南信息学院
-    selfInfoContent2: 软件工程
-    selfInfoTips3: 现在职业
-    selfInfoContent3: 大三学生👨‍🎓
+    selfInfoContentYear: 1997
+    selfInfoTips2: 华中科技大学
+    selfInfoContent2: 计算机
+    selfInfoTips3: 暂无
+    selfInfoContent3: 👨
   personalities:
     author_name: 执政官
     personality_type: ESFJ-A
@@ -70,7 +70,7 @@
     buff_bottom: 二次元指数 MAX
   game:
     game_tips: 爱好游戏
-    game_title: 原神
+    game_title: DNF,cf
     game_uid: "UID: 125766904"
     game_bg: https://bu.dusays.com/2023/04/22/64433bf26e25d.webp
   comic:
