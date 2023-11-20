@@ -14,18 +14,18 @@ menu:
 
 # nav相关配置
 nav:
-  enable: false
+  enable: true
   travelling: false
   clock: false
   menu:
     - title: 网页
       item:
-        - name: 博客
+        - name: 博客主页
           link: https://www.arzhp.cn/
           icon: /img/favicon.ico
     - title: 项目
       item:
-        - name: 安知鱼图床
+        - name: 安苒杂货铺图床
           link: https://img.arzhp.cn/
           icon: https://image.anheyu.com/favicon.ico
 
@@ -58,8 +58,8 @@ copy:
 # formal:
 #   name: link || icon
 social:
-  # Github: https://github.com/anzhiyu-c || anzhiyu-icon-github
-  # BiliBili: https://space.bilibili.com/372204786 || anzhiyu-icon-bilibili
+   Github: https://github.com/time1y || anzhiyu-icon-github
+   BiliBili: http://wpa.qq.com/msgrd?v=3&uin=1970786058&site=qq&menu=yes || anzhiyu-icon-qq
 
 # 作者卡片 状态
 author_status:
@@ -132,7 +132,7 @@ favicon: /favicon.ico
 
 # Avatar (头像)
 avatar:
-  img: https://bu.dusays.com/2023/04/27/64496e511b09c.jpg
+  img: ../images/touxiang.jpg
   effect: false
 
 # Disable all banner image
@@ -226,7 +226,7 @@ post_copyright:
   enable: true
   decode: false
   author_href:
-  location: 长沙
+  location: 安徽
   license: CC BY-NC-SA 4.0
   license_url: https://creativecommons.org/licenses/by-nc-sa/4.0/
   avatarSinks: false # hover时头像下沉
@@ -499,8 +499,8 @@ footer:
       enable: false
       link: /copyright
     linkList:
-      - link: https://github.com/anzhiyu-c/hexo-theme-anzhiyu
-        text: 主题
+      - link: https://github.com/time1y
+        text: GITHUB
       # - link: https://image.anheyu.com
       #   text: 图床
       # - link: https://beian.miit.gov.cn/
@@ -656,7 +656,7 @@ canvas_ribbon:
 
 # Fluttering Ribbon (动态彩带)
 canvas_fluttering_ribbon:
-  enable: false
+  enable: true
   mobile: false
 
 # canvas_nest
@@ -831,7 +831,7 @@ busuanzi:
 # Formal: Month/Day/Year Time or Year/Month/Day Time
 runtimeshow:
   enable: true
-  publish_date: 4/1/2021 00:00:00
+  publish_date: 11/11/2023 00:00:00
 
 # Console - Newest Comments
 newest_comments:
@@ -1023,20 +1023,20 @@ home_top:
   timemode: date #date/updated
   title: 生活明朗
   subTitle: 万物可爱。
-  siteText: anheyu.com
+  siteText: arzhp.cn
   category:
-    - name: 前端
-      path: /categories/前端开发/
+    - name: 必看精选
+      path: /categories/学习笔记/
       shadow: var(--anzhiyu-shadow-blue)
       class: blue
       icon: anzhiyu-icon-dove
-    - name: 大学
-      path: /categories/大学生涯/
+    - name: 热门文章
+      path: /categories/archives/
       shadow: var(--anzhiyu-shadow-red)
       class: red
       icon: anzhiyu-icon-fire
-    - name: 生活
-      path: /categories/生活日常/
+    - name: 实用教程
+      path: /categories/实用教程/
       shadow: var(--anzhiyu-shadow-green)
       class: green
       icon: anzhiyu-icon-book
@@ -1046,10 +1046,10 @@ home_top:
     swiper_css: https://npm.elemecdn.com/anzhiyu-theme-static@1.0.0/swiper/swiper.min.css #swiper css依赖
     swiper_js: https://npm.elemecdn.com/anzhiyu-theme-static@1.0.0/swiper/swiper.min.js #swiper js依赖
   banner:
-    tips: 新品主题
-    title: Theme-AnZhiYu
-    image: https://bu.dusays.com/2023/05/13/645fa3cf90d70.webp
-    link: https://docs.anheyu.com/
+    tips: 
+    title: 万丈楼台平地起，辉煌只能靠自己.
+    image: ../images/zhuye.png
+    link: https://arzhp.cn/about/
 
 # 朋友圈配置
 friends_vue:
@@ -1098,7 +1098,7 @@ comment_barrage_config:
 # 左下角音乐配置项
 # https://github.com/metowolf/MetingJS
 nav_music:
-  enable: true
+  enable: false
   console_widescreen_music: false # 宽屏状态控制台显示音乐而不是标签 enable为true 控制台依然会显示
   id: 8152976493
   server: netease
