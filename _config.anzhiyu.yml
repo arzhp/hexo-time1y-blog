@@ -1,8 +1,8 @@
 menu:
-   文章:
-     隧道: /archives/ || anzhiyu-icon-box-archive
-     分类: /categories/ || anzhiyu-icon-shapes
-     标签: /tags/ || anzhiyu-icon-tags
+   文库:
+     文章列表: /archives/ || anzhiyu-icon-box-archive
+     文章分类: /categories/ || anzhiyu-icon-shapes
+     文章标签: /tags/ || anzhiyu-icon-tags
 
    友链:
      友人帐: /link/ || anzhiyu-icon-link
@@ -10,15 +10,7 @@ menu:
      留言板: /comments/ || anzhiyu-icon-envelope
 
    我的:
-     音乐馆: /music/ || anzhiyu-icon-music
-     追番页: /bangumis/ || anzhiyu-icon-bilibili
-     相册集: /album/ || anzhiyu-icon-images
-     小空调: /air-conditioner/ || anzhiyu-icon-fan
-
-   关于:
-     关于本人: /about/ || anzhiyu-icon-paper-plane
-     闲言碎语: /essay/ || anzhiyu-icon-lightbulb
-     随便逛逛: javascript:toRandomPost() || anzhiyu-icon-shoe-prints1
+     关于本站: /about/ || anzhiyu-icon-paper-plane
 
 # nav相关配置
 nav:
@@ -412,10 +404,10 @@ crisp:
 footer:
   owner:
     enable: true
-    since: 2020
+    since: 2023
   custom_text:
   runtime:
-    enable: true
+    enable: false
     launch_time: 11/11/2023 00:00:00 # 网站上线时间
     work_img: https://npm.elemecdn.com/anzhiyu-blog@2.0.4/img/badge/安知鱼-上班摸鱼中.svg
     work_description: 距离月入25k也就还差一个大佬带我~
