@@ -246,10 +246,10 @@ post_copyright:
 reward:
   enable: true
   QR_code:
-    - img: ../images/weixin.jpg
+    - img: ../images/wechat.jpg
       link:
       text: 微信
-    - img: ../images/zhifubao.jpg
+    - img: ../images/alipay.jpg
       link:
       text: 支付宝
 
@@ -330,7 +330,7 @@ valine:
   pageSize: 10 # comment list page size
   avatar: mp # gravatar style https://valine.js.org/#/avatar
   lang: zh-CN # i18n: zh-CN/zh-TW/en/ja
-  placeholder: 填写QQ邮箱就会使用QQ头像喔~. # valine comment input placeholder (like: Please leave your footprints)
+  placeholder: 1970786058 # valine comment input placeholder (like: Please leave your footprints)
   guest_info: nick,mail,link # valine comment header info (nick/mail/link)
   recordIP: false # Record reviewer IP
   serverURLs: # This configuration is suitable for domestic custom domain name users, overseas version will be automatically detected (no need to manually fill in)
