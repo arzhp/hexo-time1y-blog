@@ -106,6 +106,7 @@ type: "privacy"
         <td><div id="userAgentDevice"></div></td>
     </tr>
     </tbody>
+    </table>
     <!-- 在模板文件中添加 JavaScript 代码 -->
 <script>
     (async function() {
@@ -141,7 +142,7 @@ type: "privacy"
     await getIpInfo();
 })();
 </script>
-</table>
+
 
 
 此页面如果未能获取到信息并不代表无法读取上述信息，以实际情况为准。
