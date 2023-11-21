@@ -354,7 +354,7 @@ waline:
 twikoo:
   envId: https://twikoo.arzhp.cn/
   region:
-  visitor: true
+  visitor: false
   option:
 
 # Artalk
