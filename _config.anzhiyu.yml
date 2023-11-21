@@ -1107,7 +1107,7 @@ nav_music:
 # 评论匿名邮箱
 visitorMail:
   enable: true
-  mail: visitor@anheyu.com
+  mail: time1y@qq.com
 
 # ptool 文章底部工具
 ptool:
